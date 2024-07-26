@@ -6706,12 +6706,13 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "77287641-45b2-4768-8d1e-678d19425bee")
-		(property "Reference" "SW1"
-			(at 31.75 168.91 0)
+		(property "Reference" "BOOT_SEL"
+			(at 36.83 168.9099 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 		(property "Value" "SW_SPST"
@@ -6759,7 +6760,7 @@
 		(instances
 			(project "banana17_main"
 				(path "/fd2b462c-d7c2-4bbf-9a41-8b3fef737a65"
-					(reference "SW1")
+					(reference "BOOT_SEL")
 					(unit 1)
 				)
 			)
@@ -8681,6 +8682,44 @@
 				(path "/fd2b462c-d7c2-4bbf-9a41-8b3fef737a65"
 					(reference "#PWR013")
 					(unit 1)
+				)
+			)
+		)
+	)
+	(sheet
+		(at 251.46 156.21)
+		(size 12.7 3.81)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "8f16a207-73c4-47aa-9ecc-1f36a96752ff")
+		(property "Sheetname" "Banana17 Matrix"
+			(at 251.46 155.4984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "banana17_matrix.kicad_sch"
+			(at 251.46 160.6046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "banana17_main"
+				(path "/fd2b462c-d7c2-4bbf-9a41-8b3fef737a65"
+					(page "2")
 				)
 			)
 		)
