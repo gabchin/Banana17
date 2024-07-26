@@ -790,6 +790,12 @@
 		(uuid "06160ddb-6a51-494d-9258-1fa8ecee9763")
 	)
 	(junction
+		(at 160.02 82.55)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "06af65a5-3cdd-4444-8b01-cb7189adb411")
+	)
+	(junction
 		(at 129.54 114.3)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -824,12 +830,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5151b080-bd58-45d7-96f0-861c3ae5b481")
-	)
-	(junction
-		(at 160.02 82.55)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "5de4958f-a207-43c1-9a66-844e80478152")
 	)
 	(junction
 		(at 152.4 114.3)
@@ -1111,16 +1111,6 @@
 	)
 	(wire
 		(pts
-			(xy 189.23 74.93) (xy 186.69 74.93)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2b16b3f7-b9fd-4023-9d07-dda71d3ab4d3")
-	)
-	(wire
-		(pts
 			(xy 102.87 92.71) (xy 106.68 92.71)
 		)
 		(stroke
@@ -1181,16 +1171,6 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 81.28) (xy 160.02 82.55)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3af4186e-e16d-4609-9858-32f7de23b48b")
-	)
-	(wire
-		(pts
 			(xy 171.45 71.12) (xy 175.26 71.12)
 		)
 		(stroke
@@ -1208,16 +1188,6 @@
 			(type default)
 		)
 		(uuid "3bf3be3c-a7cd-4165-8ebb-7661cd25161d")
-	)
-	(wire
-		(pts
-			(xy 189.23 80.01) (xy 189.23 82.55)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4120a51d-4e09-4cca-a2b4-b486e1f1cce6")
 	)
 	(wire
 		(pts
@@ -1411,6 +1381,16 @@
 	)
 	(wire
 		(pts
+			(xy 182.88 73.66) (xy 182.88 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "660ce959-ef94-4381-b80b-d1cc54b5b686")
+	)
+	(wire
+		(pts
 			(xy 102.87 135.89) (xy 106.68 135.89)
 		)
 		(stroke
@@ -1448,6 +1428,16 @@
 			(type default)
 		)
 		(uuid "6d9e5436-fbeb-400e-9498-1bc171234a93")
+	)
+	(wire
+		(pts
+			(xy 160.02 82.55) (xy 160.02 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "71117527-6101-4ca0-8d50-f64cf0aa8389")
 	)
 	(wire
 		(pts
@@ -1591,7 +1581,7 @@
 	)
 	(wire
 		(pts
-			(xy 204.47 80.01) (xy 207.01 80.01)
+			(xy 193.04 86.36) (xy 193.04 88.9)
 		)
 		(stroke
 			(width 0)
@@ -1611,7 +1601,7 @@
 	)
 	(wire
 		(pts
-			(xy 204.47 77.47) (xy 208.28 77.47)
+			(xy 195.58 86.36) (xy 195.58 90.17)
 		)
 		(stroke
 			(width 0)
@@ -1701,7 +1691,7 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 82.55) (xy 181.61 82.55)
+			(xy 160.02 82.55) (xy 182.88 82.55)
 		)
 		(stroke
 			(width 0)
@@ -1871,7 +1861,7 @@
 	)
 	(wire
 		(pts
-			(xy 204.47 74.93) (xy 207.01 74.93)
+			(xy 198.12 86.36) (xy 198.12 88.9)
 		)
 		(stroke
 			(width 0)
@@ -1881,13 +1871,33 @@
 	)
 	(wire
 		(pts
-			(xy 186.69 49.53) (xy 186.69 74.93)
+			(xy 198.12 49.53) (xy 198.12 71.12)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "dd8e095b-b94c-4265-988e-162d3bf194e5")
+	)
+	(wire
+		(pts
+			(xy 182.88 71.12) (xy 193.04 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "de694a55-19c7-40dc-a1d2-d54c3542d675")
+	)
+	(wire
+		(pts
+			(xy 182.88 82.55) (xy 182.88 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "df2cf211-36b0-4f53-845a-694f3d8111c1")
 	)
 	(wire
 		(pts
@@ -2029,6 +2039,26 @@
 		)
 		(uuid "fec3c6ae-e2e1-4bd2-a26b-5d7287dacb81")
 	)
+	(text "26/07/2024"
+		(exclude_from_sim no)
+		(at 212.598 193.548 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "0717337a-7416-4594-a9f3-e9289e532760")
+	)
+	(text "Banana 17 Matrix"
+		(exclude_from_sim no)
+		(at 194.818 189.738 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "6d3722b3-ed52-4392-8c74-9d634c1c0977")
+	)
 	(global_label "COL4"
 		(shape input)
 		(at 175.26 49.53 90)
@@ -2097,7 +2127,7 @@
 	)
 	(global_label "COL5"
 		(shape input)
-		(at 186.69 49.53 90)
+		(at 198.12 49.53 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2107,7 +2137,7 @@
 		)
 		(uuid "2766a268-a8fc-4e2d-934b-76aee51f3306")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 186.69 41.7067 90)
+			(at 198.12 41.7067 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2119,22 +2149,22 @@
 	)
 	(global_label "ENCODER_B"
 		(shape input)
-		(at 207.01 80.01 0)
+		(at 193.04 88.9 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "3dcf0d03-1498-485a-b91a-df36e79ad10e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 221.0018 80.01 0)
+			(at 193.04 102.8918 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -2273,22 +2303,22 @@
 	)
 	(global_label "ENCODER_A"
 		(shape input)
-		(at 207.01 74.93 0)
+		(at 198.12 88.9 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "e24d7311-aea8-443d-9bba-2e7c106b0364")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 220.8204 74.93 0)
+			(at 198.12 102.7104 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -2959,7 +2989,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 185.42 82.55 0)
+		(at 182.88 77.47 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2968,23 +2998,25 @@
 		(fields_autoplaced yes)
 		(uuid "494540a6-0e1c-40ca-96e3-2b9c680e626f")
 		(property "Reference" "D21"
-			(at 185.42 76.2 0)
+			(at 185.42 76.1999 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 		(property "Value" "D"
-			(at 185.42 78.74 0)
+			(at 185.42 78.7399 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 		(property "Footprint" ""
-			(at 185.42 82.55 0)
+			(at 182.88 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2993,7 +3025,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 185.42 82.55 0)
+			(at 182.88 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3002,7 +3034,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 185.42 82.55 0)
+			(at 182.88 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3011,7 +3043,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 185.42 82.55 0)
+			(at 182.88 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3020,7 +3052,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 185.42 82.55 0)
+			(at 182.88 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4389,7 +4421,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 208.28 77.47 90)
+		(at 195.58 90.17 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4398,7 +4430,7 @@
 		(fields_autoplaced yes)
 		(uuid "c5e5deda-c8fc-4ebf-8966-8af9e057b3fd")
 		(property "Reference" "#PWR022"
-			(at 214.63 77.47 0)
+			(at 195.58 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4407,7 +4439,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 212.09 77.4699 90)
+			(at 195.5801 93.98 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4416,7 +4448,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 208.28 77.47 0)
+			(at 195.58 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4425,7 +4457,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 208.28 77.47 0)
+			(at 195.58 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4434,7 +4466,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 208.28 77.47 0)
+			(at 195.58 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4720,7 +4752,7 @@
 	)
 	(symbol
 		(lib_id "Device:RotaryEncoder_Switch")
-		(at 196.85 77.47 180)
+		(at 195.58 78.74 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4728,7 +4760,7 @@
 		(dnp no)
 		(uuid "def1d760-9388-49c4-94e9-9b19bf2c4509")
 		(property "Reference" "SW21"
-			(at 196.85 70.358 0)
+			(at 202.692 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4736,7 +4768,7 @@
 			)
 		)
 		(property "Value" "RotaryEncoder_Switch"
-			(at 196.85 86.106 0)
+			(at 195.58 105.918 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4744,7 +4776,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 200.66 81.534 0)
+			(at 191.516 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4753,7 +4785,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 196.85 84.074 0)
+			(at 188.976 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4762,7 +4794,7 @@
 			)
 		)
 		(property "Description" "Rotary encoder, dual channel, incremental quadrate outputs, with switch"
-			(at 196.85 77.47 0)
+			(at 195.58 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)

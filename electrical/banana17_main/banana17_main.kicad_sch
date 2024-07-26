@@ -4698,9 +4698,9 @@
 		)
 		(uuid "2e5bebd7-7e84-4766-bd82-972f9486d840")
 	)
-	(text "RP2040 Core"
+	(text "Banana 17 Main"
 		(exclude_from_sim no)
-		(at 192.532 189.738 0)
+		(at 194.056 189.738 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8687,7 +8687,7 @@
 		)
 	)
 	(sheet
-		(at 251.46 156.21)
+		(at 176.53 156.21)
 		(size 12.7 3.81)
 		(fields_autoplaced yes)
 		(stroke
@@ -8699,7 +8699,7 @@
 		)
 		(uuid "8f16a207-73c4-47aa-9ecc-1f36a96752ff")
 		(property "Sheetname" "Banana17 Matrix"
-			(at 251.46 155.4984 0)
+			(at 176.53 155.4984 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8708,7 +8708,7 @@
 			)
 		)
 		(property "Sheetfile" "banana17_matrix.kicad_sch"
-			(at 251.46 160.6046 0)
+			(at 176.53 160.6046 0)
 			(effects
 				(font
 					(size 1.27 1.27)
