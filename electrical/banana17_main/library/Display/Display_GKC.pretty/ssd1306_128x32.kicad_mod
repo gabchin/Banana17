@@ -1,0 +1,136 @@
+(footprint "ssd1306_128x32"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 16.6 5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "6fcb9f33-f85b-4371-9b2d-e2665d332b24")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "ssd1306_128x32"
+		(at 12.3 -4.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "7ef57d30-de83-4599-8369-7aac1e6bed94")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "da933f6e-9a84-40a7-8575-957bddd564d4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "af6a97f9-bd1b-45f7-899b-e9ca371c4262")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "15c7f60d-b11c-49c4-a350-853382d70161")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_rect
+		(start -19 -6)
+		(end 19 6)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "2f47f90c-f544-4143-8c4f-eb3e3e743367")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "57bc94ef-085d-4ab8-b0b5-aebc2354be86")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at -17.5 -3.81)
+		(size 1.7 1.7)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "26deb630-d849-482e-b379-06def1773080")
+	)
+	(pad "2" thru_hole circle
+		(at -17.5 -1.27)
+		(size 1.7 1.7)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "49f8ea80-1b02-4129-b56e-944c34a4152b")
+	)
+	(pad "3" thru_hole circle
+		(at -17.5 1.27)
+		(size 1.7 1.7)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "de80f27f-6b30-4bbc-ba21-cf7cf9b47c28")
+	)
+	(pad "4" thru_hole rect
+		(at -17.5 3.81)
+		(size 1.7 1.7)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "6df65855-91ab-4e79-9311-c5113504ae57")
+	)
+	(model "${KIPRJMOD}/library/Display/3D Model/ssd1306_128x32.stp"
+		(offset
+			(xyz 0.05 0 2.5)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
