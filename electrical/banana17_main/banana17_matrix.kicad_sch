@@ -2789,7 +2789,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-2U-Vertical"
 			(at 166.37 135.89 0)
 			(effects
 				(font
@@ -2857,7 +2857,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-2U"
 			(at 120.65 157.48 0)
 			(effects
 				(font
@@ -5076,7 +5076,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-2U-Vertical"
 			(at 166.37 92.71 0)
 			(effects
 				(font
