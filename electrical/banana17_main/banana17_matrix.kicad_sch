@@ -2333,7 +2333,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "04774425-ae13-4d8b-b4a6-44b332291d71")
-		(property "Reference" "D15"
+		(property "Reference" "D14"
 			(at 139.7 140.9699 90)
 			(effects
 				(font
@@ -2405,7 +2405,7 @@
 		(instances
 			(project "banana17_main"
 				(path "/fd2b462c-d7c2-4bbf-9a41-8b3fef737a65/8f16a207-73c4-47aa-9ecc-1f36a96752ff"
-					(reference "D15")
+					(reference "D14")
 					(unit 1)
 				)
 			)
@@ -2421,7 +2421,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0f8d3971-33be-41ec-85f1-dd0638a189c9")
-		(property "Reference" "D13"
+		(property "Reference" "D12"
 			(at 93.98 140.9699 90)
 			(effects
 				(font
@@ -2493,7 +2493,7 @@
 		(instances
 			(project "banana17_main"
 				(path "/fd2b462c-d7c2-4bbf-9a41-8b3fef737a65/8f16a207-73c4-47aa-9ecc-1f36a96752ff"
-					(reference "D13")
+					(reference "D12")
 					(unit 1)
 				)
 			)
@@ -2597,7 +2597,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "21634e8d-66de-4186-9620-dab7f9780ab6")
-		(property "Reference" "D11"
+		(property "Reference" "D10"
 			(at 116.84 119.3799 90)
 			(effects
 				(font
@@ -2669,7 +2669,7 @@
 		(instances
 			(project "banana17_main"
 				(path "/fd2b462c-d7c2-4bbf-9a41-8b3fef737a65/8f16a207-73c4-47aa-9ecc-1f36a96752ff"
-					(reference "D11")
+					(reference "D10")
 					(unit 1)
 				)
 			)
@@ -2685,7 +2685,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2ed0df04-2541-416f-a946-483b5b2784b6")
-		(property "Reference" "D9"
+		(property "Reference" "D8"
 			(at 162.56 97.7899 90)
 			(effects
 				(font
@@ -2757,7 +2757,7 @@
 		(instances
 			(project "banana17_main"
 				(path "/fd2b462c-d7c2-4bbf-9a41-8b3fef737a65/8f16a207-73c4-47aa-9ecc-1f36a96752ff"
-					(reference "D9")
+					(reference "D8")
 					(unit 1)
 				)
 			)
@@ -2773,7 +2773,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2ed1a464-2b3d-401a-822b-9cfed7c118c3")
-		(property "Reference" "SW16"
+		(property "Reference" "SW15"
 			(at 166.37 129.54 0)
 			(effects
 				(font
@@ -2789,7 +2789,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_2.00u_Vertical_PCB"
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
 			(at 166.37 135.89 0)
 			(effects
 				(font
@@ -2825,7 +2825,7 @@
 		(instances
 			(project "banana17_main"
 				(path "/fd2b462c-d7c2-4bbf-9a41-8b3fef737a65/8f16a207-73c4-47aa-9ecc-1f36a96752ff"
-					(reference "SW16")
+					(reference "SW15")
 					(unit 1)
 				)
 			)
@@ -2841,7 +2841,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "35c7a03a-d899-437b-929a-75ef29707f9b")
-		(property "Reference" "SW17"
+		(property "Reference" "SW16"
 			(at 120.65 151.13 0)
 			(effects
 				(font
@@ -2857,7 +2857,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_2.00u_PCB"
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
 			(at 120.65 157.48 0)
 			(effects
 				(font
@@ -2893,7 +2893,7 @@
 		(instances
 			(project "banana17_main"
 				(path "/fd2b462c-d7c2-4bbf-9a41-8b3fef737a65/8f16a207-73c4-47aa-9ecc-1f36a96752ff"
-					(reference "SW17")
+					(reference "SW16")
 					(unit 1)
 				)
 			)
@@ -2909,7 +2909,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "41e41370-d8c6-4957-8521-b98180687cef")
-		(property "Reference" "D10"
+		(property "Reference" "D9"
 			(at 93.98 119.3799 90)
 			(effects
 				(font
@@ -2981,7 +2981,7 @@
 		(instances
 			(project "banana17_main"
 				(path "/fd2b462c-d7c2-4bbf-9a41-8b3fef737a65/8f16a207-73c4-47aa-9ecc-1f36a96752ff"
-					(reference "D10")
+					(reference "D9")
 					(unit 1)
 				)
 			)
@@ -2997,7 +2997,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "494540a6-0e1c-40ca-96e3-2b9c680e626f")
-		(property "Reference" "D5"
+		(property "Reference" "ENC_D1"
 			(at 185.42 76.1999 90)
 			(effects
 				(font
@@ -3069,7 +3069,7 @@
 		(instances
 			(project "banana17_main"
 				(path "/fd2b462c-d7c2-4bbf-9a41-8b3fef737a65/8f16a207-73c4-47aa-9ecc-1f36a96752ff"
-					(reference "D5")
+					(reference "ENC_D1")
 					(unit 1)
 				)
 			)
@@ -3085,7 +3085,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4bf45902-08b8-4284-a404-6506b7ee8c9c")
-		(property "Reference" "SW13"
+		(property "Reference" "SW12"
 			(at 97.79 129.54 0)
 			(effects
 				(font
@@ -3101,7 +3101,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
 			(at 97.79 135.89 0)
 			(effects
 				(font
@@ -3137,7 +3137,7 @@
 		(instances
 			(project "banana17_main"
 				(path "/fd2b462c-d7c2-4bbf-9a41-8b3fef737a65/8f16a207-73c4-47aa-9ecc-1f36a96752ff"
-					(reference "SW13")
+					(reference "SW12")
 					(unit 1)
 				)
 			)
@@ -3153,7 +3153,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4ec1c010-0e47-416b-a670-e5fb65d9f279")
-		(property "Reference" "SW12"
+		(property "Reference" "SW11"
 			(at 143.51 107.95 0)
 			(effects
 				(font
@@ -3169,7 +3169,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
 			(at 143.51 114.3 0)
 			(effects
 				(font
@@ -3205,7 +3205,7 @@
 		(instances
 			(project "banana17_main"
 				(path "/fd2b462c-d7c2-4bbf-9a41-8b3fef737a65/8f16a207-73c4-47aa-9ecc-1f36a96752ff"
-					(reference "SW12")
+					(reference "SW11")
 					(unit 1)
 				)
 			)
@@ -3221,7 +3221,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "565b0089-0ec7-47df-bea3-d207ec39dbc5")
-		(property "Reference" "SW18"
+		(property "Reference" "SW17"
 			(at 143.51 151.13 0)
 			(effects
 				(font
@@ -3237,7 +3237,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
 			(at 143.51 157.48 0)
 			(effects
 				(font
@@ -3273,7 +3273,7 @@
 		(instances
 			(project "banana17_main"
 				(path "/fd2b462c-d7c2-4bbf-9a41-8b3fef737a65/8f16a207-73c4-47aa-9ecc-1f36a96752ff"
-					(reference "SW18")
+					(reference "SW17")
 					(unit 1)
 				)
 			)
@@ -3305,7 +3305,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
 			(at 120.65 71.12 0)
 			(effects
 				(font
@@ -3357,7 +3357,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5b2df8c8-acff-4224-8ba6-75c5133d4cdf")
-		(property "Reference" "SW6"
+		(property "Reference" "SW5"
 			(at 97.79 86.36 0)
 			(effects
 				(font
@@ -3373,7 +3373,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
 			(at 97.79 92.71 0)
 			(effects
 				(font
@@ -3409,7 +3409,7 @@
 		(instances
 			(project "banana17_main"
 				(path "/fd2b462c-d7c2-4bbf-9a41-8b3fef737a65/8f16a207-73c4-47aa-9ecc-1f36a96752ff"
-					(reference "SW6")
+					(reference "SW5")
 					(unit 1)
 				)
 			)
@@ -3529,7 +3529,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
 			(at 166.37 71.12 0)
 			(effects
 				(font
@@ -3581,7 +3581,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6884f024-07d8-45fe-93d0-4b249d02b7c6")
-		(property "Reference" "SW11"
+		(property "Reference" "SW10"
 			(at 120.65 107.95 0)
 			(effects
 				(font
@@ -3597,7 +3597,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
 			(at 120.65 114.3 0)
 			(effects
 				(font
@@ -3633,7 +3633,7 @@
 		(instances
 			(project "banana17_main"
 				(path "/fd2b462c-d7c2-4bbf-9a41-8b3fef737a65/8f16a207-73c4-47aa-9ecc-1f36a96752ff"
-					(reference "SW11")
+					(reference "SW10")
 					(unit 1)
 				)
 			)
@@ -3665,7 +3665,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
 			(at 143.51 71.12 0)
 			(effects
 				(font
@@ -3717,7 +3717,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "720332fc-9f27-4567-9555-0b910f960f81")
-		(property "Reference" "SW14"
+		(property "Reference" "SW13"
 			(at 120.65 129.54 0)
 			(effects
 				(font
@@ -3733,7 +3733,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
 			(at 120.65 135.89 0)
 			(effects
 				(font
@@ -3769,7 +3769,7 @@
 		(instances
 			(project "banana17_main"
 				(path "/fd2b462c-d7c2-4bbf-9a41-8b3fef737a65/8f16a207-73c4-47aa-9ecc-1f36a96752ff"
-					(reference "SW14")
+					(reference "SW13")
 					(unit 1)
 				)
 			)
@@ -3785,7 +3785,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7bda398c-0d97-44da-8cac-cebac579af80")
-		(property "Reference" "SW8"
+		(property "Reference" "SW7"
 			(at 143.51 86.36 0)
 			(effects
 				(font
@@ -3801,7 +3801,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
 			(at 143.51 92.71 0)
 			(effects
 				(font
@@ -3837,7 +3837,7 @@
 		(instances
 			(project "banana17_main"
 				(path "/fd2b462c-d7c2-4bbf-9a41-8b3fef737a65/8f16a207-73c4-47aa-9ecc-1f36a96752ff"
-					(reference "SW8")
+					(reference "SW7")
 					(unit 1)
 				)
 			)
@@ -3853,7 +3853,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7f3adc4a-5b9d-4001-bb28-d68620089b9b")
-		(property "Reference" "D7"
+		(property "Reference" "D6"
 			(at 116.84 97.7899 90)
 			(effects
 				(font
@@ -3925,7 +3925,7 @@
 		(instances
 			(project "banana17_main"
 				(path "/fd2b462c-d7c2-4bbf-9a41-8b3fef737a65/8f16a207-73c4-47aa-9ecc-1f36a96752ff"
-					(reference "D7")
+					(reference "D6")
 					(unit 1)
 				)
 			)
@@ -3941,7 +3941,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "80b5f5d0-746c-4f03-a17d-987698f7241a")
-		(property "Reference" "D16"
+		(property "Reference" "D15"
 			(at 162.56 140.9699 90)
 			(effects
 				(font
@@ -4013,7 +4013,7 @@
 		(instances
 			(project "banana17_main"
 				(path "/fd2b462c-d7c2-4bbf-9a41-8b3fef737a65/8f16a207-73c4-47aa-9ecc-1f36a96752ff"
-					(reference "D16")
+					(reference "D15")
 					(unit 1)
 				)
 			)
@@ -4029,7 +4029,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "903bf457-c147-4deb-8c29-442b1d8f2aed")
-		(property "Reference" "D18"
+		(property "Reference" "D17"
 			(at 139.7 162.5599 90)
 			(effects
 				(font
@@ -4101,7 +4101,7 @@
 		(instances
 			(project "banana17_main"
 				(path "/fd2b462c-d7c2-4bbf-9a41-8b3fef737a65/8f16a207-73c4-47aa-9ecc-1f36a96752ff"
-					(reference "D18")
+					(reference "D17")
 					(unit 1)
 				)
 			)
@@ -4117,7 +4117,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9787a356-49dc-4f17-99c5-714eb4984628")
-		(property "Reference" "SW7"
+		(property "Reference" "SW6"
 			(at 120.65 86.36 0)
 			(effects
 				(font
@@ -4133,7 +4133,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
 			(at 120.65 92.71 0)
 			(effects
 				(font
@@ -4169,7 +4169,7 @@
 		(instances
 			(project "banana17_main"
 				(path "/fd2b462c-d7c2-4bbf-9a41-8b3fef737a65/8f16a207-73c4-47aa-9ecc-1f36a96752ff"
-					(reference "SW7")
+					(reference "SW6")
 					(unit 1)
 				)
 			)
@@ -4185,7 +4185,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a2b8292c-3bfb-4bc7-a660-6abc8c39de51")
-		(property "Reference" "D8"
+		(property "Reference" "D7"
 			(at 139.7 97.7899 90)
 			(effects
 				(font
@@ -4257,7 +4257,7 @@
 		(instances
 			(project "banana17_main"
 				(path "/fd2b462c-d7c2-4bbf-9a41-8b3fef737a65/8f16a207-73c4-47aa-9ecc-1f36a96752ff"
-					(reference "D8")
+					(reference "D7")
 					(unit 1)
 				)
 			)
@@ -4289,7 +4289,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
 			(at 97.79 71.12 0)
 			(effects
 				(font
@@ -4341,7 +4341,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c49694d1-6786-4f19-84ee-db027b9d8fc1")
-		(property "Reference" "D6"
+		(property "Reference" "D5"
 			(at 93.98 97.7899 90)
 			(effects
 				(font
@@ -4413,7 +4413,7 @@
 		(instances
 			(project "banana17_main"
 				(path "/fd2b462c-d7c2-4bbf-9a41-8b3fef737a65/8f16a207-73c4-47aa-9ecc-1f36a96752ff"
-					(reference "D6")
+					(reference "D5")
 					(unit 1)
 				)
 			)
@@ -4496,7 +4496,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "caf2dd4a-3daa-463b-b605-9a4b1a207c32")
-		(property "Reference" "D17"
+		(property "Reference" "D16"
 			(at 116.84 162.5599 90)
 			(effects
 				(font
@@ -4568,7 +4568,7 @@
 		(instances
 			(project "banana17_main"
 				(path "/fd2b462c-d7c2-4bbf-9a41-8b3fef737a65/8f16a207-73c4-47aa-9ecc-1f36a96752ff"
-					(reference "D17")
+					(reference "D16")
 					(unit 1)
 				)
 			)
@@ -4584,7 +4584,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cd8d2df2-fdc3-4dfa-a3bd-9189744deb54")
-		(property "Reference" "D14"
+		(property "Reference" "D13"
 			(at 116.84 140.9699 90)
 			(effects
 				(font
@@ -4656,7 +4656,7 @@
 		(instances
 			(project "banana17_main"
 				(path "/fd2b462c-d7c2-4bbf-9a41-8b3fef737a65/8f16a207-73c4-47aa-9ecc-1f36a96752ff"
-					(reference "D14")
+					(reference "D13")
 					(unit 1)
 				)
 			)
@@ -4759,7 +4759,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "def1d760-9388-49c4-94e9-9b19bf2c4509")
-		(property "Reference" "SW5"
+		(property "Reference" "ENC1"
 			(at 202.692 78.74 0)
 			(effects
 				(font
@@ -4820,7 +4820,7 @@
 		(instances
 			(project "banana17_main"
 				(path "/fd2b462c-d7c2-4bbf-9a41-8b3fef737a65/8f16a207-73c4-47aa-9ecc-1f36a96752ff"
-					(reference "SW5")
+					(reference "ENC1")
 					(unit 1)
 				)
 			)
@@ -4836,7 +4836,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e88636e3-6a57-4631-adcb-91155058df12")
-		(property "Reference" "SW10"
+		(property "Reference" "SW9"
 			(at 97.79 107.95 0)
 			(effects
 				(font
@@ -4852,7 +4852,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
 			(at 97.79 114.3 0)
 			(effects
 				(font
@@ -4888,7 +4888,7 @@
 		(instances
 			(project "banana17_main"
 				(path "/fd2b462c-d7c2-4bbf-9a41-8b3fef737a65/8f16a207-73c4-47aa-9ecc-1f36a96752ff"
-					(reference "SW10")
+					(reference "SW9")
 					(unit 1)
 				)
 			)
@@ -4904,7 +4904,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e9a1427e-354f-4c70-9d2d-5b318361b1c5")
-		(property "Reference" "SW15"
+		(property "Reference" "SW14"
 			(at 143.51 129.54 0)
 			(effects
 				(font
@@ -4920,7 +4920,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
 			(at 143.51 135.89 0)
 			(effects
 				(font
@@ -4956,7 +4956,7 @@
 		(instances
 			(project "banana17_main"
 				(path "/fd2b462c-d7c2-4bbf-9a41-8b3fef737a65/8f16a207-73c4-47aa-9ecc-1f36a96752ff"
-					(reference "SW15")
+					(reference "SW14")
 					(unit 1)
 				)
 			)
@@ -5060,7 +5060,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "facdc46f-69c1-4557-a16b-f5382bddfead")
-		(property "Reference" "SW9"
+		(property "Reference" "SW8"
 			(at 166.37 86.36 0)
 			(effects
 				(font
@@ -5076,7 +5076,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_2.00u_Vertical_PCB"
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
 			(at 166.37 92.71 0)
 			(effects
 				(font
@@ -5112,7 +5112,7 @@
 		(instances
 			(project "banana17_main"
 				(path "/fd2b462c-d7c2-4bbf-9a41-8b3fef737a65/8f16a207-73c4-47aa-9ecc-1f36a96752ff"
-					(reference "SW9")
+					(reference "SW8")
 					(unit 1)
 				)
 			)
@@ -5128,7 +5128,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fffc7fb2-89de-423f-af35-2235cd6f4666")
-		(property "Reference" "D12"
+		(property "Reference" "D11"
 			(at 139.7 119.3799 90)
 			(effects
 				(font
@@ -5200,7 +5200,7 @@
 		(instances
 			(project "banana17_main"
 				(path "/fd2b462c-d7c2-4bbf-9a41-8b3fef737a65/8f16a207-73c4-47aa-9ecc-1f36a96752ff"
-					(reference "D12")
+					(reference "D11")
 					(unit 1)
 				)
 			)
