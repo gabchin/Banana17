@@ -3,4 +3,5 @@
   (lib (name "Display_GKC")(type "KiCad")(uri "${KIPRJMOD}/library/Display/Display_GKC.pretty")(options "")(descr ""))
   (lib (name "Keebio-Parts")(type "KiCad")(uri "${KIPRJMOD}/library/Keebio-Parts.pretty")(options "")(descr ""))
   (lib (name "MX_Hotswap")(type "KiCad")(uri "${KIPRJMOD}/library/MX_V2-main/MX_Hotswap.pretty")(options "")(descr ""))
+  (lib (name "locallib")(type "KiCad")(uri "${KIPRJMOD}/library/locallib.pretty")(options "")(descr ""))
 )
