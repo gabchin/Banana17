@@ -562,6 +562,17 @@
 				(xyz -90 0 180)
 			)
 		)
+		(model "${KIPRJMOD}/library/kailh-cherry-mx/Kailh Polia.step"
+			(offset
+				(xyz 0 0 4.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 -90)
+			)
+		)
 	)
 	(footprint "MX_Hotswap:MX-Hotswap-2U"
 		(layer "F.Cu")
@@ -996,6 +1007,17 @@
 				(xyz -90 0 180)
 			)
 		)
+		(model "${KIPRJMOD}/library/kailh-cherry-mx/Kailh Polia.step"
+			(offset
+				(xyz 0 0 4.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 -90)
+			)
+		)
 	)
 	(footprint "MX_Hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
@@ -1400,6 +1422,17 @@
 			)
 			(rotate
 				(xyz -90 0 180)
+			)
+		)
+		(model "${KIPRJMOD}/library/kailh-cherry-mx/Kailh Polia.step"
+			(offset
+				(xyz 0 0 4.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 -90)
 			)
 		)
 	)
@@ -1808,6 +1841,17 @@
 				(xyz -90 0 180)
 			)
 		)
+		(model "${KIPRJMOD}/library/kailh-cherry-mx/Kailh Polia.step"
+			(offset
+				(xyz 0 0 4.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 -90)
+			)
+		)
 	)
 	(footprint "MX_Hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
@@ -2212,6 +2256,17 @@
 			)
 			(rotate
 				(xyz -90 0 180)
+			)
+		)
+		(model "${KIPRJMOD}/library/kailh-cherry-mx/Kailh Polia.step"
+			(offset
+				(xyz 0 0 4.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 -90)
 			)
 		)
 	)
@@ -3046,6 +3101,17 @@
 				(xyz -90 0 180)
 			)
 		)
+		(model "${KIPRJMOD}/library/kailh-cherry-mx/Kailh Polia.step"
+			(offset
+				(xyz 0 0 4.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 -90)
+			)
+		)
 	)
 	(footprint "MX_Hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
@@ -3450,6 +3516,17 @@
 			)
 			(rotate
 				(xyz -90 0 180)
+			)
+		)
+		(model "${KIPRJMOD}/library/kailh-cherry-mx/Kailh Polia.step"
+			(offset
+				(xyz 0 0 4.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 -90)
 			)
 		)
 	)
@@ -4285,6 +4362,17 @@
 				(xyz -90 0 180)
 			)
 		)
+		(model "${KIPRJMOD}/library/kailh-cherry-mx/Kailh Polia.step"
+			(offset
+				(xyz 0 0 4.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 -90)
+			)
+		)
 	)
 	(footprint "MX_Hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
@@ -4689,6 +4777,17 @@
 			)
 			(rotate
 				(xyz -90 0 180)
+			)
+		)
+		(model "${KIPRJMOD}/library/kailh-cherry-mx/Kailh Polia.step"
+			(offset
+				(xyz 0 0 4.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 -90)
 			)
 		)
 	)
@@ -5125,6 +5224,17 @@
 				(xyz -90 0 180)
 			)
 		)
+		(model "${KIPRJMOD}/library/kailh-cherry-mx/Kailh Polia.step"
+			(offset
+				(xyz 0 0 4.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 -90)
+			)
+		)
 	)
 	(footprint "MX_Hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
@@ -5531,6 +5641,17 @@
 				(xyz -90 0 180)
 			)
 		)
+		(model "${KIPRJMOD}/library/kailh-cherry-mx/Kailh Polia.step"
+			(offset
+				(xyz 0 0 4.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 -90)
+			)
+		)
 	)
 	(footprint "MX_Hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
@@ -5935,6 +6056,17 @@
 			)
 			(rotate
 				(xyz -90 0 180)
+			)
+		)
+		(model "${KIPRJMOD}/library/kailh-cherry-mx/Kailh Polia.step"
+			(offset
+				(xyz 0 0 4.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 -90)
 			)
 		)
 	)
@@ -6493,6 +6625,17 @@
 				(xyz -90 0 180)
 			)
 		)
+		(model "${KIPRJMOD}/library/kailh-cherry-mx/Kailh Polia.step"
+			(offset
+				(xyz 0 0 4.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 90)
+			)
+		)
 	)
 	(footprint "MX_Hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
@@ -6897,6 +7040,17 @@
 			)
 			(rotate
 				(xyz -90 0 180)
+			)
+		)
+		(model "${KIPRJMOD}/library/kailh-cherry-mx/Kailh Polia.step"
+			(offset
+				(xyz 0 0 4.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 -90)
 			)
 		)
 	)
@@ -7333,6 +7487,17 @@
 				(xyz -90 0 180)
 			)
 		)
+		(model "${KIPRJMOD}/library/kailh-cherry-mx/Kailh Polia.step"
+			(offset
+				(xyz 0 0 4.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 -90)
+			)
+		)
 	)
 	(footprint "MX_Hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
@@ -7739,6 +7904,17 @@
 				(xyz -90 0 180)
 			)
 		)
+		(model "${KIPRJMOD}/library/kailh-cherry-mx/Kailh Polia.step"
+			(offset
+				(xyz 0 0 4.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 -90)
+			)
+		)
 	)
 	(footprint "MX_Hotswap:MX-Hotswap-1U"
 		(layer "F.Cu")
@@ -8143,6 +8319,17 @@
 			)
 			(rotate
 				(xyz -90 0 180)
+			)
+		)
+		(model "${KIPRJMOD}/library/kailh-cherry-mx/Kailh Polia.step"
+			(offset
+				(xyz 0 0 4.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 -90)
 			)
 		)
 	)
@@ -13511,7 +13698,7 @@
 		(descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "diode handsolder")
 		(property "Reference" "ENC_D2"
-			(at -0.15 0.278 360)
+			(at -0.15 0.278 0)
 			(layer "B.SilkS")
 			(hide yes)
 			(uuid "0302f8a7-a25d-4c59-9a4d-340cd603a7af")
@@ -13524,7 +13711,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 0 -1.65 270)
+			(at 0 -1.65 -90)
 			(layer "B.Fab")
 			(uuid "3dee94c8-6516-43f3-848a-b5ccc9cf8dd2")
 			(effects
@@ -13728,7 +13915,7 @@
 			(uuid "aac35c5e-a563-41ff-acdc-11fce80af9f5")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 270)
+			(at 0 0 -90)
 			(layer "B.Fab")
 			(uuid "73ffe645-55ba-443c-a566-17b917987e79")
 			(effects
@@ -14262,7 +14449,7 @@
 		(descr "Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "diode handsolder")
 		(property "Reference" "ENC_D1"
-			(at 0 1.65 270)
+			(at 0 1.65 -90)
 			(layer "B.SilkS")
 			(hide yes)
 			(uuid "334937c7-bdce-47a9-875b-67ef5d75bae2")
@@ -14275,7 +14462,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 0 -1.65 270)
+			(at 0 -1.65 -90)
 			(layer "B.Fab")
 			(uuid "c07901c9-fa7f-4e8e-a530-5c816919e7ef")
 			(effects
@@ -14479,7 +14666,7 @@
 			(uuid "e6abfcb9-7f62-4cf0-b8f6-6cb2f430fb4d")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 270)
+			(at 0 0 -90)
 			(layer "B.Fab")
 			(uuid "d23b814e-871b-4d0c-95b7-6ef96fc91333")
 			(effects
@@ -20292,9 +20479,31 @@
 			)
 		)
 	)
+	(gr_arc
+		(start 95 56.1)
+		(mid 95.908256 53.906589)
+		(end 98.101264 52.99736)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "1cc35ca0-494c-483a-9e36-428d6877261d")
+	)
+	(gr_arc
+		(start 98 153)
+		(mid 95.87868 152.12132)
+		(end 95 150)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "28a737a5-1c5e-4788-9529-b88a512b4420")
+	)
 	(gr_line
-		(start 95 53)
-		(end 195 53)
+		(start 98.101264 52.99736)
+		(end 191.9 53)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -20302,9 +20511,20 @@
 		(layer "Edge.Cuts")
 		(uuid "773f73cc-d77e-4da3-816e-eebe26d77374")
 	)
+	(gr_arc
+		(start 195 149.89736)
+		(mid 194.091744 152.090771)
+		(end 191.898736 153)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "a474f7d3-7489-40cc-9431-d5a17d4e823e")
+	)
 	(gr_line
-		(start 95 153)
-		(end 95 53)
+		(start 95 150)
+		(end 95 56.1)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -20313,8 +20533,8 @@
 		(uuid "be8e7658-3ed1-49f6-9516-88d3f096e38f")
 	)
 	(gr_line
-		(start 95 153)
-		(end 195 153)
+		(start 98 153)
+		(end 191.898736 153)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -20322,9 +20542,20 @@
 		(layer "Edge.Cuts")
 		(uuid "e3f8e459-357c-477e-878d-dc3ea915979d")
 	)
+	(gr_arc
+		(start 191.9 53)
+		(mid 194.093411 53.908256)
+		(end 195.00264 56.101264)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "ec23618b-f050-4990-8500-6567be7408ac")
+	)
 	(gr_line
-		(start 195 53)
-		(end 195 153)
+		(start 195.00264 56.101264)
+		(end 195 149.89736)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -21701,12 +21932,44 @@
 		(uuid "811b8291-749c-4cb4-80c6-0c8de0165f46")
 	)
 	(segment
+		(start 103.664857 59.1)
+		(end 102.934856 59.830001)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 5)
+		(uuid "0bc41520-ee92-4494-b4c7-62aff28201e1")
+	)
+	(segment
+		(start 107.834856 59.830001)
+		(end 107.104855 59.1)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 5)
+		(uuid "1369b949-0fed-486b-a46b-05e4e1ed7ae0")
+	)
+	(segment
+		(start 107.834856 60.555)
+		(end 107.834856 59.830001)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 5)
+		(uuid "477b3d87-beb7-4991-af9d-7bbbe943c61f")
+	)
+	(segment
 		(start 103.9325 67.0975)
 		(end 102.27 65.435)
 		(width 0.5)
 		(layer "B.Cu")
 		(net 5)
 		(uuid "5122765d-331d-4c1e-84d3-2682aaeedcc5")
+	)
+	(segment
+		(start 107.104855 59.1)
+		(end 103.664857 59.1)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 5)
+		(uuid "544a350a-0e5e-41ca-b1ca-eaee3de1190c")
 	)
 	(segment
 		(start 102.934856 60.555)
@@ -21723,6 +21986,14 @@
 		(layer "B.Cu")
 		(net 5)
 		(uuid "7563555d-2e77-4e6d-a088-92d9679d57ae")
+	)
+	(segment
+		(start 102.934856 59.830001)
+		(end 102.934856 60.555)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 5)
+		(uuid "93520a60-6cc9-4a6e-8dd0-94d079bf6638")
 	)
 	(segment
 		(start 102.27 67.53)
