@@ -56,11 +56,6 @@
           "gap": 0.0,
           "via_gap": 0.0,
           "width": 0.0
-        },
-        {
-          "gap": 0.15,
-          "via_gap": 0.0,
-          "width": 0.8
         }
       ],
       "drc_exclusions": [],
@@ -477,7 +472,7 @@
       },
       {
         "bus_width": 12,
-        "clearance": 0.15,
+        "clearance": 0.2032,
         "diff_pair_gap": 0.15,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.8,
@@ -487,7 +482,7 @@
         "name": "USB_DIFF_90",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.15,
+        "track_width": 0.286,
         "via_diameter": 0.6,
         "via_drill": 0.3,
         "wire_width": 6
@@ -514,7 +509,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "gerber/",
+      "plot": "C:/Users/Gabriel/Documents/GitHub/Banana17/electrical/banana17_main/gerber/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
@@ -525,6 +520,7 @@
   },
   "schematic": {
     "annotate_start_num": 0,
+    "bom_export_filename": "",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",
