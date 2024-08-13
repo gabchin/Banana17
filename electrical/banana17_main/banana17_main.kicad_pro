@@ -512,7 +512,7 @@
       "plot": "C:/Users/Gabriel/Documents/GitHub/Banana17/electrical/banana17_main/gerber/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../../mechanical/banana17_main_pcb.step",
       "svg": "",
       "vrml": ""
     },
