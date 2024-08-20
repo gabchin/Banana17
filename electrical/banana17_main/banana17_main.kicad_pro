@@ -509,7 +509,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "C:/Users/Gabriel/Documents/GitHub/Banana17/electrical/banana17_main/gerber/",
+      "plot": "gerber/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "../../mechanical/banana17_main_pcb.step",

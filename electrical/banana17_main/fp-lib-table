@@ -4,4 +4,5 @@
   (lib (name "Keebio-Parts")(type "KiCad")(uri "${KIPRJMOD}/library/Keebio-Parts.pretty")(options "")(descr ""))
   (lib (name "MX_Hotswap")(type "KiCad")(uri "${KIPRJMOD}/library/MX_V2-main/MX_Hotswap.pretty")(options "")(descr ""))
   (lib (name "locallib")(type "KiCad")(uri "${KIPRJMOD}/library/locallib.pretty")(options "")(descr ""))
+  (lib (name "PEC11R-4215K")(type "KiCad")(uri "${KIPRJMOD}/library/PEC11R-4215K")(options "")(descr ""))
 )

@@ -168,47 +168,42 @@
 				)
 			)
 		)
-		(symbol "Device:RotaryEncoder_Switch"
+		(symbol "PEC11R-4215F-S0024:PEC11R-4215F-S0024"
 			(pin_names
-				(offset 0.254) hide)
+				(offset 1.016)
+			)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "SW"
-				(at 0 6.604 0)
+			(property "Reference" "MT"
+				(at -7.62 8.89 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify left bottom)
 				)
 			)
-			(property "Value" "RotaryEncoder_Switch"
-				(at 0 -6.604 0)
+			(property "Value" "PEC11R-4215F-S0024"
+				(at -7.62 -8.89 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify left top)
 				)
 			)
-			(property "Footprint" ""
-				(at -3.81 4.064 0)
+			(property "Footprint" "PEC11R-4215F-S0024:XDCR_PEC11R-4215F-S0024"
+				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify bottom)
 					(hide yes)
 				)
 			)
-			(property "Datasheet" "~"
-				(at 0 6.604 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Rotary encoder, dual channel, incremental quadrate outputs, with switch"
+			(property "Datasheet" ""
 				(at 0 0 0)
 				(effects
 					(font
@@ -217,7 +212,7 @@
 					(hide yes)
 				)
 			)
-			(property "ki_keywords" "rotary switch encoder switch push button"
+			(property "Description" ""
 				(at 0 0 0)
 				(effects
 					(font
@@ -226,19 +221,140 @@
 					(hide yes)
 				)
 			)
-			(property "ki_fp_filters" "RotaryEncoder*Switch*"
+			(property "MF" "Bourns"
 				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify bottom)
 					(hide yes)
 				)
 			)
-			(symbol "RotaryEncoder_Switch_0_1"
+			(property "MAXIMUM_PACKAGE_HEIGHT" "21.5 mm"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Package" "None"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Price" "None"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Check_prices" "https://www.snapeda.com/parts/PEC11R-4215F-S0024/Bourns/view-part/?ref=eda"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "STANDARD" "Manufacturer Recommendations"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "PARTREV" "Rev. 09/19"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "SnapEDA_Link" "https://www.snapeda.com/parts/PEC11R-4215F-S0024/Bourns/view-part/?ref=snap"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MP" "PEC11R-4215F-S0024"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=428605&manufacturer=Bourns&part_name=PEC11R-4215F-S0024&search_term=None"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Description_1" "\nEncoder,Rotary,24 Detents,15 mm, Shaft,Switch | Bourns PEC11R-4215F-S0024\n"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Availability" "In Stock"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MANUFACTURER" "J.W.Miller/Bourns"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(symbol "PEC11R-4215F-S0024_0_0"
 				(rectangle
-					(start -5.08 5.08)
-					(end 5.08 -5.08)
+					(start -7.62 -7.62)
+					(end 7.62 7.62)
 					(stroke
 						(width 0.254)
 						(type default)
@@ -247,34 +363,12 @@
 						(type background)
 					)
 				)
-				(circle
-					(center -3.81 0)
-					(radius 0.254)
+				(polyline
+					(pts
+						(xy -2.54 2.54) (xy -7.62 2.54)
+					)
 					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(circle
-					(center -0.381 0)
-					(radius 1.905)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start -0.381 2.667)
-					(mid -3.0988 -0.0635)
-					(end -0.381 -2.794)
-					(stroke
-						(width 0.254)
+						(width 0.1524)
 						(type default)
 					)
 					(fill
@@ -283,10 +377,10 @@
 				)
 				(polyline
 					(pts
-						(xy -0.635 -1.778) (xy -0.635 1.778)
+						(xy -2.54 2.54) (xy 2.794 4.6736)
 					)
 					(stroke
-						(width 0.254)
+						(width 0.1524)
 						(type default)
 					)
 					(fill
@@ -295,142 +389,10 @@
 				)
 				(polyline
 					(pts
-						(xy -0.381 -1.778) (xy -0.381 1.778)
+						(xy 7.62 2.54) (xy 2.921 2.54)
 					)
 					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -0.127 1.778) (xy -0.127 -1.778)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 3.81 0) (xy 3.429 0)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 3.81 1.016) (xy 3.81 -1.016)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -5.08 -2.54) (xy -3.81 -2.54) (xy -3.81 -2.032)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -5.08 2.54) (xy -3.81 2.54) (xy -3.81 2.032)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.254 -3.048) (xy -0.508 -2.794) (xy 0.127 -2.413)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.254 2.921) (xy -0.508 2.667) (xy 0.127 2.286)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 5.08 -2.54) (xy 4.318 -2.54) (xy 4.318 -1.016)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 5.08 2.54) (xy 4.318 2.54) (xy 4.318 1.016)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -5.08 0) (xy -3.81 0) (xy -3.81 -1.016) (xy -3.302 -2.032)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -4.318 0) (xy -3.81 0) (xy -3.81 1.016) (xy -3.302 2.032)
-					)
-					(stroke
-						(width 0)
+						(width 0.1524)
 						(type default)
 					)
 					(fill
@@ -438,115 +400,138 @@
 					)
 				)
 				(circle
-					(center 4.318 -1.016)
-					(radius 0.127)
+					(center 2.54 2.54)
+					(radius 0.3302)
 					(stroke
-						(width 0.254)
+						(width 0.1524)
 						(type default)
 					)
 					(fill
 						(type none)
 					)
 				)
-				(circle
-					(center 4.318 1.016)
-					(radius 0.127)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "RotaryEncoder_Switch_1_1"
 				(pin passive line
-					(at -7.62 2.54 0)
+					(at -10.16 2.54 0)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 10.16 2.54 180)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 10.16 -2.54 180)
 					(length 2.54)
 					(name "A"
 						(effects
 							(font
-								(size 1.27 1.27)
+								(size 1.016 1.016)
 							)
 						)
 					)
 					(number "A"
 						(effects
 							(font
-								(size 1.27 1.27)
+								(size 1.016 1.016)
 							)
 						)
 					)
 				)
 				(pin passive line
-					(at -7.62 -2.54 0)
+					(at 10.16 -5.08 180)
 					(length 2.54)
 					(name "B"
 						(effects
 							(font
-								(size 1.27 1.27)
+								(size 1.016 1.016)
 							)
 						)
 					)
 					(number "B"
 						(effects
 							(font
-								(size 1.27 1.27)
+								(size 1.016 1.016)
 							)
 						)
 					)
 				)
 				(pin passive line
-					(at -7.62 0 0)
+					(at -10.16 -2.54 0)
 					(length 2.54)
-					(name "C"
+					(name "COM"
 						(effects
 							(font
-								(size 1.27 1.27)
+								(size 1.016 1.016)
 							)
 						)
 					)
-					(number "C"
+					(number "COM"
 						(effects
 							(font
-								(size 1.27 1.27)
+								(size 1.016 1.016)
 							)
 						)
 					)
 				)
 				(pin passive line
-					(at 7.62 2.54 180)
+					(at -10.16 -5.08 0)
 					(length 2.54)
-					(name "S1"
+					(name "SHIELD"
 						(effects
 							(font
-								(size 1.27 1.27)
+								(size 1.016 1.016)
 							)
 						)
 					)
 					(number "S1"
 						(effects
 							(font
-								(size 1.27 1.27)
+								(size 1.016 1.016)
 							)
 						)
 					)
 				)
 				(pin passive line
-					(at 7.62 -2.54 180)
+					(at -10.16 -5.08 0)
 					(length 2.54)
-					(name "S2"
+					(name "SHIELD"
 						(effects
 							(font
-								(size 1.27 1.27)
+								(size 1.016 1.016)
 							)
 						)
 					)
 					(number "S2"
 						(effects
 							(font
-								(size 1.27 1.27)
+								(size 1.016 1.016)
 							)
 						)
 					)
@@ -784,12 +769,6 @@
 		)
 	)
 	(junction
-		(at 207.01 95.25)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "03c4542d-c4eb-482c-acfc-f4f887253a39")
-	)
-	(junction
 		(at 85.09 160.02)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -824,6 +803,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "30c6a227-d4c4-4f5d-9109-7be46f47ddf8")
+	)
+	(junction
+		(at 218.44 62.23)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3c4bc9d4-33b3-48a3-ba82-aeee9b615acb")
 	)
 	(junction
 		(at 85.09 73.66)
@@ -902,6 +887,18 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ad1cce6b-8a8a-4875-97b5-d9f79bc769e2")
+	)
+	(junction
+		(at 199.39 100.33)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b19bb901-564c-403c-97cc-e50ccb1231f8")
+	)
+	(junction
+		(at 199.39 66.04)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b4e7f86c-4fdb-48cf-8023-207899e03126")
 	)
 	(junction
 		(at 100.33 127)
@@ -991,16 +988,6 @@
 	)
 	(wire
 		(pts
-			(xy 207.01 93.98) (xy 207.01 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "079e36a4-81f2-49ea-9336-2313cc0d8bd6")
-	)
-	(wire
-		(pts
 			(xy 119.38 105.41) (xy 123.19 105.41)
 		)
 		(stroke
@@ -1028,6 +1015,26 @@
 			(type default)
 		)
 		(uuid "15805918-fffd-4138-9b1a-5259cee0b92e")
+	)
+	(wire
+		(pts
+			(xy 218.44 100.33) (xy 218.44 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "15eeac0c-c5f2-44ae-9cd5-71cedf1bd028")
+	)
+	(wire
+		(pts
+			(xy 201.93 66.04) (xy 199.39 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "198c353a-5de2-4162-9b68-72e975ff8520")
 	)
 	(wire
 		(pts
@@ -1068,6 +1075,16 @@
 			(type default)
 		)
 		(uuid "1cd9fa9e-9966-4ffb-aa64-4985a1054653")
+	)
+	(wire
+		(pts
+			(xy 200.66 96.52) (xy 207.01 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2021c6d7-cf4e-411c-9535-3fc67f61dc9d")
 	)
 	(wire
 		(pts
@@ -1138,6 +1155,16 @@
 			(type default)
 		)
 		(uuid "2b49f277-8b8f-4073-9a3e-e834663fae4a")
+	)
+	(wire
+		(pts
+			(xy 194.31 120.65) (xy 199.39 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2cba0479-459a-4202-93ff-ea4cb4d02a14")
 	)
 	(wire
 		(pts
@@ -1231,6 +1258,26 @@
 	)
 	(wire
 		(pts
+			(xy 201.93 88.9) (xy 201.93 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4d53182f-32cc-40b2-998f-0e329ca8053a")
+	)
+	(wire
+		(pts
+			(xy 201.93 123.19) (xy 201.93 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4fc1c88a-ffec-45f0-b181-c946deb0a847")
+	)
+	(wire
+		(pts
 			(xy 130.81 93.98) (xy 130.81 95.25)
 		)
 		(stroke
@@ -1271,6 +1318,16 @@
 	)
 	(wire
 		(pts
+			(xy 194.31 88.9) (xy 201.93 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5a201ea7-147f-4887-9fc4-20af2056e519")
+	)
+	(wire
+		(pts
 			(xy 107.95 93.98) (xy 107.95 95.25)
 		)
 		(stroke
@@ -1288,16 +1345,6 @@
 			(type default)
 		)
 		(uuid "5e723308-1dfe-4dfc-a9aa-65c48e66560c")
-	)
-	(wire
-		(pts
-			(xy 207.01 115.57) (xy 200.66 115.57)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5ed75611-1d2c-4e2a-93dd-647b607bc3ed")
 	)
 	(wire
 		(pts
@@ -1421,6 +1468,16 @@
 	)
 	(wire
 		(pts
+			(xy 207.01 100.33) (xy 218.44 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "70160847-c1fd-43e9-9494-dfa70e9f7f03")
+	)
+	(wire
+		(pts
 			(xy 130.81 73.66) (xy 130.81 72.39)
 		)
 		(stroke
@@ -1441,13 +1498,13 @@
 	)
 	(wire
 		(pts
-			(xy 207.01 95.25) (xy 207.01 100.33)
+			(xy 194.31 86.36) (xy 199.39 86.36)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "78225cd9-1201-42e2-a3a7-175d9cebe9f1")
+		(uuid "72c8d415-5536-4b70-b05b-81cd72fbb282")
 	)
 	(wire
 		(pts
@@ -1491,6 +1548,16 @@
 	)
 	(wire
 		(pts
+			(xy 207.01 128.27) (xy 207.01 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7acd2edc-df07-4bc7-ba21-00f12c869cf2")
+	)
+	(wire
+		(pts
 			(xy 85.09 129.54) (xy 85.09 127)
 		)
 		(stroke
@@ -1498,6 +1565,26 @@
 			(type default)
 		)
 		(uuid "7bcaad75-97b0-47b0-966b-d847cda74cba")
+	)
+	(wire
+		(pts
+			(xy 207.01 62.23) (xy 207.01 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "80b5f114-cc56-4b9c-8c7c-396e105f80b6")
+	)
+	(wire
+		(pts
+			(xy 207.01 93.98) (xy 207.01 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "824e91d5-0cfe-41c8-9194-976183d379b6")
 	)
 	(wire
 		(pts
@@ -1551,16 +1638,6 @@
 	)
 	(wire
 		(pts
-			(xy 207.01 74.93) (xy 207.01 81.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "90a8d8a3-4fb5-4dc9-92fe-c027b2a0a58c")
-	)
-	(wire
-		(pts
 			(xy 119.38 148.59) (xy 123.19 148.59)
 		)
 		(stroke
@@ -1578,16 +1655,6 @@
 			(type default)
 		)
 		(uuid "93ec6b13-aa46-4da5-aec2-3ce2e872090f")
-	)
-	(wire
-		(pts
-			(xy 200.66 95.25) (xy 207.01 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9592131d-552a-4718-ad8e-345eb9c61ffa")
 	)
 	(wire
 		(pts
@@ -1658,6 +1725,16 @@
 			(type default)
 		)
 		(uuid "a89eab8d-1d18-48d2-a1ab-ad15af3fd895")
+	)
+	(wire
+		(pts
+			(xy 194.31 123.19) (xy 201.93 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a9b355d4-554f-4497-b351-87237623f99e")
 	)
 	(wire
 		(pts
@@ -1741,6 +1818,16 @@
 	)
 	(wire
 		(pts
+			(xy 218.44 58.42) (xy 218.44 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c10ecf9c-cb68-4811-bb5e-548abc4577f3")
+	)
+	(wire
+		(pts
 			(xy 85.09 83.82) (xy 86.36 83.82)
 		)
 		(stroke
@@ -1811,16 +1898,6 @@
 	)
 	(wire
 		(pts
-			(xy 207.01 113.03) (xy 207.01 115.57)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d1e0c7de-d235-49b4-992f-80a13a7015cf")
-	)
-	(wire
-		(pts
 			(xy 62.23 83.82) (xy 63.5 83.82)
 		)
 		(stroke
@@ -1831,6 +1908,16 @@
 	)
 	(wire
 		(pts
+			(xy 201.93 100.33) (xy 199.39 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d3a7639f-32ea-4513-86c7-6d9798f6bdb0")
+	)
+	(wire
+		(pts
 			(xy 85.09 64.77) (xy 85.09 62.23)
 		)
 		(stroke
@@ -1838,6 +1925,16 @@
 			(type default)
 		)
 		(uuid "d5e6a9f4-8318-41ca-a88f-a9f604c5311b")
+	)
+	(wire
+		(pts
+			(xy 200.66 130.81) (xy 207.01 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d60b81bd-822c-495a-b57d-aa44554abe2d")
 	)
 	(wire
 		(pts
@@ -1878,6 +1975,16 @@
 			(type default)
 		)
 		(uuid "d8e493dc-621b-4c05-bd5e-6e764cc67476")
+	)
+	(wire
+		(pts
+			(xy 218.44 62.23) (xy 207.01 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "de8cbf0e-1dfd-411c-a224-d4c29b3184be")
 	)
 	(wire
 		(pts
@@ -2039,28 +2146,6 @@
 		)
 		(uuid "6d3722b3-ed52-4392-8c74-9d634c1c0977")
 	)
-	(global_label "ROW6"
-		(shape input)
-		(at 200.66 115.57 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "130854d7-7f22-45c3-9b28-6d0fffba287b")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 192.4134 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "COL4"
 		(shape input)
 		(at 146.05 49.53 90)
@@ -2105,28 +2190,6 @@
 			)
 		)
 	)
-	(global_label "ENC1_A"
-		(shape input)
-		(at 222.25 86.36 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "2de5d05c-cd7b-495e-8fa6-b0dd82218037")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 232.2504 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "ROW3"
 		(shape input)
 		(at 49.53 138.43 180)
@@ -2149,9 +2212,53 @@
 			)
 		)
 	)
-	(global_label "ENC2_B"
+	(global_label "ROW5"
 		(shape input)
-		(at 222.25 100.33 0)
+		(at 200.66 96.52 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "39eede31-d8ff-4ae9-80dc-adc3f292fc34")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 192.4134 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "ROW6"
+		(shape input)
+		(at 200.66 130.81 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "3b9eb109-e08e-4ab8-9309-f76c5292db28")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 192.4134 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "COL0"
+		(shape input)
+		(at 218.44 58.42 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2159,9 +2266,9 @@
 			)
 			(justify left)
 		)
-		(uuid "3595d22a-20f8-476a-afe3-e02c26d8f4c3")
+		(uuid "3cdeb337-4e94-486f-ab24-5b046693ae12")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 232.4318 100.33 0)
+			(at 218.44 50.5967 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2193,28 +2300,6 @@
 			)
 		)
 	)
-	(global_label "ENC1_B"
-		(shape input)
-		(at 222.25 81.28 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "3e60f342-4090-4d6b-b5e9-23ade11bd3fd")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 232.4318 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "COL1"
 		(shape input)
 		(at 77.47 49.53 90)
@@ -2233,6 +2318,50 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "ENC1_A"
+		(shape input)
+		(at 194.31 88.9 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "53bd129f-b842-482f-80bb-abbd775a203c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 184.3096 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "ENC1_B"
+		(shape input)
+		(at 194.31 86.36 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "56d949ce-1bed-42c2-89a1-e76701684373")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 184.1282 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -2303,6 +2432,28 @@
 			)
 		)
 	)
+	(global_label "ENC2_A"
+		(shape input)
+		(at 194.31 123.19 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "b943a552-8a83-4a71-a167-b3ff08b9a844")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 184.3096 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "COL2"
 		(shape input)
 		(at 100.33 49.53 90)
@@ -2325,31 +2476,9 @@
 			)
 		)
 	)
-	(global_label "COL0"
+	(global_label "ENC2_B"
 		(shape input)
-		(at 207.01 74.93 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "cd1fb7a6-dab7-4f53-a103-4e6438a8c4bb")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 207.01 67.1067 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "ROW5"
-		(shape input)
-		(at 200.66 95.25 180)
+		(at 194.31 120.65 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2357,36 +2486,14 @@
 			)
 			(justify right)
 		)
-		(uuid "ecbb712a-09b7-4f08-a149-3918513d27b4")
+		(uuid "e1355744-d42d-4d3c-954e-bd58a215c0a4")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 192.4134 95.25 0)
+			(at 184.1282 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "ENC2_A"
-		(shape input)
-		(at 222.25 105.41 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "f941c81e-25cc-433f-9aa7-52a9c5cbef87")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 232.2504 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
 				(hide yes)
 			)
 		)
@@ -2900,93 +3007,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:D")
-		(at 207.01 109.22 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "341e5980-145b-49c4-8adb-9159c79a17ae")
-		(property "Reference" "ENC_D2"
-			(at 209.55 109.728 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "D"
-			(at 209.55 112.268 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
-			(at 207.01 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 207.01 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 207.01 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 207.01 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 207.01 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "42b55835-d944-413c-9ca4-1591d8960540")
-		)
-		(pin "2"
-			(uuid "bd59fb86-4743-406f-80b2-c23491874ef9")
-		)
-		(instances
-			(project "banana17_main"
-				(path "/fd2b462c-d7c2-4bbf-9a41-8b3fef737a65/8f16a207-73c4-47aa-9ecc-1f36a96752ff"
-					(reference "ENC_D2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Switch:SW_SPST")
 		(at 91.44 148.59 0)
 		(unit 1)
@@ -3012,7 +3032,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Hotswap:MX-Hotswap-2U"
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-2U-ReversedStabilizers"
 			(at 91.44 148.59 0)
 			(effects
 				(font
@@ -3137,83 +3157,6 @@
 			(project "banana17_main"
 				(path "/fd2b462c-d7c2-4bbf-9a41-8b3fef737a65/8f16a207-73c4-47aa-9ecc-1f36a96752ff"
 					(reference "D9")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:RotaryEncoder_Switch")
-		(at 214.63 102.87 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "498bf3d0-d388-40d8-afe3-81d591ada4eb")
-		(property "Reference" "ENC2"
-			(at 214.63 95.758 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "RotaryEncoder_Switch"
-			(at 241.808 102.87 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm"
-			(at 218.44 106.934 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 214.63 109.474 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Rotary encoder, dual channel, incremental quadrate outputs, with switch"
-			(at 214.63 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "B"
-			(uuid "0e56fed4-1a7a-4563-a51b-39157b1d9acb")
-		)
-		(pin "C"
-			(uuid "0a79b83c-1ec8-4ec3-922d-3715b2f28fc7")
-		)
-		(pin "S1"
-			(uuid "ab04a5ea-e57e-4949-b486-ae766898d438")
-		)
-		(pin "A"
-			(uuid "1cae0d01-fc7a-4d56-818f-e43fc8590588")
-		)
-		(pin "S2"
-			(uuid "76ebeaff-feda-4ecb-83b2-8c2772f03111")
-		)
-		(instances
-			(project "banana17_main"
-				(path "/fd2b462c-d7c2-4bbf-9a41-8b3fef737a65/8f16a207-73c4-47aa-9ecc-1f36a96752ff"
-					(reference "ENC2")
 					(unit 1)
 				)
 			)
@@ -3350,6 +3293,160 @@
 			(project "banana17_main"
 				(path "/fd2b462c-d7c2-4bbf-9a41-8b3fef737a65/8f16a207-73c4-47aa-9ecc-1f36a96752ff"
 					(reference "SW11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 199.39 66.04 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "51e5259b-dfdd-4b07-9d82-6b3e45ccec98")
+		(property "Reference" "#PWR024"
+			(at 193.04 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 195.58 66.0401 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 199.39 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 199.39 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 199.39 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0072f442-a7b9-405e-b0d1-b8dac21c9368")
+		)
+		(instances
+			(project "banana17_main"
+				(path "/fd2b462c-d7c2-4bbf-9a41-8b3fef737a65/8f16a207-73c4-47aa-9ecc-1f36a96752ff"
+					(reference "#PWR024")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D")
+		(at 207.01 124.46 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "55d0ff89-68a5-420c-b4d4-6b24bd000194")
+		(property "Reference" "ENC_D2"
+			(at 208.28 121.158 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "D"
+			(at 210.82 124.206 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+			(at 207.01 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 207.01 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 207.01 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 207.01 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 207.01 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f07e4ec2-0378-4f77-a72c-6f33f3bce5e1")
+		)
+		(pin "2"
+			(uuid "97fee5c0-34a8-4c4c-9024-9937a5e56109")
+		)
+		(instances
+			(project "banana17_main"
+				(path "/fd2b462c-d7c2-4bbf-9a41-8b3fef737a65/8f16a207-73c4-47aa-9ecc-1f36a96752ff"
+					(reference "ENC_D2")
 					(unit 1)
 				)
 			)
@@ -3846,73 +3943,6 @@
 			(project "banana17_main"
 				(path "/fd2b462c-d7c2-4bbf-9a41-8b3fef737a65/8f16a207-73c4-47aa-9ecc-1f36a96752ff"
 					(reference "SW3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 222.25 83.82 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "6d8168db-fff5-481a-a09d-bbc1e16780b7")
-		(property "Reference" "#PWR024"
-			(at 228.6 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 226.06 83.8199 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 222.25 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 222.25 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 222.25 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "0ecf8b35-53cb-457d-81b7-48d914e40aa1")
-		)
-		(instances
-			(project "banana17_main"
-				(path "/fd2b462c-d7c2-4bbf-9a41-8b3fef737a65/8f16a207-73c4-47aa-9ecc-1f36a96752ff"
-					(reference "#PWR024")
 					(unit 1)
 				)
 			)
@@ -4475,6 +4505,310 @@
 		)
 	)
 	(symbol
+		(lib_id "PEC11R-4215F-S0024:PEC11R-4215F-S0024")
+		(at 204.47 110.49 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ac707345-eaaa-490f-ad66-8bfb4b87a72d")
+		(property "Reference" "MT2"
+			(at 195.58 110.4901 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "PEC11R-4215F-S0024"
+			(at 195.58 109.2201 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "PEC11R-4215K:XDCR_PEC11R-4215F-S0024"
+			(at 204.47 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 204.47 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 204.47 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "Bourns"
+			(at 204.47 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" "21.5 mm"
+			(at 204.47 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "None"
+			(at 204.47 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" "None"
+			(at 204.47 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/PEC11R-4215F-S0024/Bourns/view-part/?ref=eda"
+			(at 204.47 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" "Manufacturer Recommendations"
+			(at 204.47 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTREV" "Rev. 09/19"
+			(at 204.47 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/PEC11R-4215F-S0024/Bourns/view-part/?ref=snap"
+			(at 204.47 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "PEC11R-4215F-S0024"
+			(at 204.47 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=428605&manufacturer=Bourns&part_name=PEC11R-4215F-S0024&search_term=None"
+			(at 204.47 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "\nEncoder,Rotary,24 Detents,15 mm, Shaft,Switch | Bourns PEC11R-4215F-S0024\n"
+			(at 204.47 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 204.47 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "J.W.Miller/Bourns"
+			(at 204.47 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "A"
+			(uuid "5fc18915-bf91-4571-94e9-d17d7cc86047")
+		)
+		(pin "2"
+			(uuid "8fd48e62-1248-49c2-a7ab-ba0efd56a1ef")
+		)
+		(pin "COM"
+			(uuid "e2b096ba-4c7c-4e06-8159-a850476cd4ed")
+		)
+		(pin "1"
+			(uuid "bfeca84a-5114-4626-af73-f29fabf8a6da")
+		)
+		(pin "S1"
+			(uuid "c2206fbc-e678-4a9a-878a-cf6bb57408b4")
+		)
+		(pin "B"
+			(uuid "33112e87-f5d2-4153-bd3b-49d24f9dd6cb")
+		)
+		(pin "S2"
+			(uuid "3c2f14b2-a15e-49ee-b4cc-49b043bc82b6")
+		)
+		(instances
+			(project "banana17_main"
+				(path "/fd2b462c-d7c2-4bbf-9a41-8b3fef737a65/8f16a207-73c4-47aa-9ecc-1f36a96752ff"
+					(reference "MT2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D")
+		(at 207.01 90.17 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b31426b7-6e67-4093-b550-7f92d4236884")
+		(property "Reference" "ENC_D1"
+			(at 208.28 86.868 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "D"
+			(at 210.82 89.916 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+			(at 207.01 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 207.01 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 207.01 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 207.01 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 207.01 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "67d4e83a-7299-4a35-8400-49ea93f9134b")
+		)
+		(pin "2"
+			(uuid "8b469075-bc2a-4aca-8a40-623ce62df1dc")
+		)
+		(instances
+			(project "banana17_main"
+				(path "/fd2b462c-d7c2-4bbf-9a41-8b3fef737a65/8f16a207-73c4-47aa-9ecc-1f36a96752ff"
+					(reference "ENC_D1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Switch:SW_SPST")
 		(at 68.58 62.23 0)
 		(unit 1)
@@ -4537,6 +4871,223 @@
 			(project "banana17_main"
 				(path "/fd2b462c-d7c2-4bbf-9a41-8b3fef737a65/8f16a207-73c4-47aa-9ecc-1f36a96752ff"
 					(reference "SW1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PEC11R-4215F-S0024:PEC11R-4215F-S0024")
+		(at 204.47 76.2 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c318b13e-0bf7-4a3c-bbe5-3f6d74868f30")
+		(property "Reference" "MT1"
+			(at 195.58 76.2001 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "PEC11R-4215F-S0024"
+			(at 195.58 74.9301 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "PEC11R-4215K:XDCR_PEC11R-4215F-S0024"
+			(at 204.47 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 204.47 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 204.47 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "Bourns"
+			(at 204.47 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" "21.5 mm"
+			(at 204.47 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "None"
+			(at 204.47 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" "None"
+			(at 204.47 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/PEC11R-4215F-S0024/Bourns/view-part/?ref=eda"
+			(at 204.47 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" "Manufacturer Recommendations"
+			(at 204.47 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTREV" "Rev. 09/19"
+			(at 204.47 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/PEC11R-4215F-S0024/Bourns/view-part/?ref=snap"
+			(at 204.47 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "PEC11R-4215F-S0024"
+			(at 204.47 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=428605&manufacturer=Bourns&part_name=PEC11R-4215F-S0024&search_term=None"
+			(at 204.47 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "\nEncoder,Rotary,24 Detents,15 mm, Shaft,Switch | Bourns PEC11R-4215F-S0024\n"
+			(at 204.47 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 204.47 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "J.W.Miller/Bourns"
+			(at 204.47 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "A"
+			(uuid "0e4094e3-ebff-4105-b594-97f28074ccfc")
+		)
+		(pin "2"
+			(uuid "3bec60f6-1640-4203-9a38-4ec316f3dece")
+		)
+		(pin "COM"
+			(uuid "dcc673a9-25b1-4000-a5a8-8c4381f99913")
+		)
+		(pin "1"
+			(uuid "5e9a6e84-fe9e-4adc-b0eb-0a0a23a083df")
+		)
+		(pin "S1"
+			(uuid "947557f8-d779-4b57-8428-bf4ce7d8a849")
+		)
+		(pin "B"
+			(uuid "25665e1c-217a-44e1-bc67-f31182a0fe41")
+		)
+		(pin "S2"
+			(uuid "54aaf694-0cc0-47ed-a311-6155563fdac1")
+		)
+		(instances
+			(project "banana17_main"
+				(path "/fd2b462c-d7c2-4bbf-9a41-8b3fef737a65/8f16a207-73c4-47aa-9ecc-1f36a96752ff"
+					(reference "MT1")
 					(unit 1)
 				)
 			)
@@ -4807,73 +5358,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 222.25 102.87 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d1e8ad2c-a605-4882-8da8-a357ebf04ccb")
-		(property "Reference" "#PWR025"
-			(at 228.6 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 226.06 102.8699 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 222.25 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 222.25 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 222.25 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "0ca6355a-791c-44c9-a564-f65914fe7ac9")
-		)
-		(instances
-			(project "banana17_main"
-				(path "/fd2b462c-d7c2-4bbf-9a41-8b3fef737a65/8f16a207-73c4-47aa-9ecc-1f36a96752ff"
-					(reference "#PWR025")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:D")
 		(at 62.23 68.58 90)
 		(unit 1)
@@ -4962,16 +5446,26 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:D")
-		(at 207.01 90.17 90)
+		(lib_id "power:GND")
+		(at 199.39 100.33 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "e1702917-307b-42df-a963-3fe830c87188")
-		(property "Reference" "ENC_D1"
-			(at 209.55 90.678 90)
+		(fields_autoplaced yes)
+		(uuid "e82a407f-f6c9-414b-89cd-1a19ca80880a")
+		(property "Reference" "#PWR025"
+			(at 193.04 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 195.58 100.3301 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4979,17 +5473,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D"
-			(at 209.55 93.218 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
-			(at 207.01 90.17 0)
+		(property "Footprint" ""
+			(at 199.39 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4997,8 +5482,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 207.01 90.17 0)
+		(property "Datasheet" ""
+			(at 199.39 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5006,26 +5491,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Diode"
-			(at 207.01 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 207.01 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 207.01 90.17 0)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 199.39 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5034,15 +5501,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "b4d91b19-b6d2-438b-9dd4-6a199ce8eae8")
-		)
-		(pin "2"
-			(uuid "36d50c4f-92f0-4771-a210-40fcb07e71ea")
+			(uuid "de5c76c5-a02b-4acd-a2de-03e51b246e9b")
 		)
 		(instances
 			(project "banana17_main"
 				(path "/fd2b462c-d7c2-4bbf-9a41-8b3fef737a65/8f16a207-73c4-47aa-9ecc-1f36a96752ff"
-					(reference "ENC_D1")
+					(reference "#PWR025")
 					(unit 1)
 				)
 			)
@@ -5179,83 +5643,6 @@
 			(project "banana17_main"
 				(path "/fd2b462c-d7c2-4bbf-9a41-8b3fef737a65/8f16a207-73c4-47aa-9ecc-1f36a96752ff"
 					(reference "SW14")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:RotaryEncoder_Switch")
-		(at 214.63 83.82 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "f458475b-ee82-43f6-be45-c77ae69ebf74")
-		(property "Reference" "ENC1"
-			(at 214.63 76.708 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "RotaryEncoder_Switch"
-			(at 241.808 83.82 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm"
-			(at 218.44 87.884 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 214.63 90.424 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Rotary encoder, dual channel, incremental quadrate outputs, with switch"
-			(at 214.63 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "B"
-			(uuid "7da73fd7-e950-421b-b2b2-5ce5cff17026")
-		)
-		(pin "C"
-			(uuid "ff813f5a-e092-4b72-85bb-c69ad0e37fc9")
-		)
-		(pin "S1"
-			(uuid "f455a693-483f-44f0-ad65-3ff230b369f0")
-		)
-		(pin "A"
-			(uuid "09eda972-f471-4e6f-bbb7-d804e2079699")
-		)
-		(pin "S2"
-			(uuid "89700ca4-66bb-46f0-b28f-d9d03aee5c16")
-		)
-		(instances
-			(project "banana17_main"
-				(path "/fd2b462c-d7c2-4bbf-9a41-8b3fef737a65/8f16a207-73c4-47aa-9ecc-1f36a96752ff"
-					(reference "ENC1")
 					(unit 1)
 				)
 			)

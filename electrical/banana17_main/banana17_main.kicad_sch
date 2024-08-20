@@ -3864,7 +3864,7 @@
 	)
 	(wire
 		(pts
-			(xy 130.81 173.99) (xy 148.59 173.99)
+			(xy 130.81 173.99) (xy 140.97 173.99)
 		)
 		(stroke
 			(width 0)
@@ -4031,6 +4031,16 @@
 			(type default)
 		)
 		(uuid "335a118d-d254-46b5-a68a-6b69a5fbecdc")
+	)
+	(wire
+		(pts
+			(xy 130.81 166.37) (xy 154.94 166.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "37bfec3c-9bcd-4d94-bc03-e938a805e8e7")
 	)
 	(wire
 		(pts
@@ -4304,16 +4314,6 @@
 	)
 	(wire
 		(pts
-			(xy 130.81 166.37) (xy 148.59 166.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "62291fd1-3310-48d8-b140-dc3748455abf")
-	)
-	(wire
-		(pts
 			(xy 223.52 133.35) (xy 223.52 135.89)
 		)
 		(stroke
@@ -4471,6 +4471,16 @@
 			(type default)
 		)
 		(uuid "80f1c5d0-3720-4447-bd1c-6f76be6bef7f")
+	)
+	(wire
+		(pts
+			(xy 148.59 173.99) (xy 154.94 173.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "811f49a4-946e-4955-a837-fa1ce733ba96")
 	)
 	(wire
 		(pts
@@ -5709,6 +5719,17 @@
 		)
 		(uuid "6bb45780-1ab2-45ea-8066-befba814a8ec")
 	)
+	(label "XOUT"
+		(at 154.94 173.99 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "6f4587cd-831b-4a55-92ab-8a779d97ac0b")
+	)
 	(label "GPIO19"
 		(at 265.43 96.52 180)
 		(fields_autoplaced yes)
@@ -5907,17 +5928,6 @@
 		)
 		(uuid "af894267-0790-429e-81ea-1a25fe48e80b")
 	)
-	(label "XOUT"
-		(at 148.59 173.99 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "b56c2a68-9eb6-4526-82f4-e4a8eb94862d")
-	)
 	(label "GPIO3"
 		(at 265.43 55.88 180)
 		(fields_autoplaced yes)
@@ -6084,7 +6094,7 @@
 		(uuid "f8d9fb9e-3b90-41bc-bfcc-8d2fc5383601")
 	)
 	(label "XIN"
-		(at 148.59 166.37 180)
+		(at 154.94 166.37 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8970,6 +8980,73 @@
 			(project "banana17_main"
 				(path "/fd2b462c-d7c2-4bbf-9a41-8b3fef737a65"
 					(reference "#PWR010")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 144.78 173.99 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a1c5dfc0-68e9-42ad-9b02-efe44d21ecc8")
+		(property "Reference" "R6"
+			(at 144.78 177.038 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1k"
+			(at 144.78 170.942 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+			(at 144.78 172.212 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 144.78 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 144.78 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "458bfa41-b52d-45f3-bfbc-94629855a1cd")
+		)
+		(pin "1"
+			(uuid "7baebd5f-fb20-40c1-88c6-ba3e05e08d61")
+		)
+		(instances
+			(project "banana17_main"
+				(path "/fd2b462c-d7c2-4bbf-9a41-8b3fef737a65"
+					(reference "R6")
 					(unit 1)
 				)
 			)
