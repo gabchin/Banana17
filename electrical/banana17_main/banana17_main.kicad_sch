@@ -6126,9 +6126,9 @@
 			)
 		)
 	)
-	(global_label "ROW4"
+	(global_label "ROW5"
 		(shape input)
-		(at 265.43 68.58 0)
+		(at 265.43 83.82 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6136,9 +6136,9 @@
 			)
 			(justify left)
 		)
-		(uuid "050b129d-437b-4d5d-b018-05b25fdc562c")
+		(uuid "03e16d88-d097-4362-8e5e-48f8f82b2a32")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 273.6766 68.58 0)
+			(at 273.6766 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6170,9 +6170,9 @@
 			)
 		)
 	)
-	(global_label "COL0"
+	(global_label "OLED_SDA"
 		(shape input)
-		(at 265.43 76.2 0)
+		(at 265.43 88.9 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6180,9 +6180,9 @@
 			)
 			(justify left)
 		)
-		(uuid "39426697-dfe5-435f-8e15-b8bfc112010b")
+		(uuid "216e0147-43b3-4057-b354-d862171c39fd")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 273.2533 76.2 0)
+			(at 277.7285 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6258,9 +6258,9 @@
 			)
 		)
 	)
-	(global_label "OLED_SDA"
+	(global_label "ROW6"
 		(shape input)
-		(at 265.43 78.74 0)
+		(at 265.43 81.28 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6268,9 +6268,9 @@
 			)
 			(justify left)
 		)
-		(uuid "646a9fd8-6e89-4587-b166-2181b1617bb4")
+		(uuid "562157e2-29a6-42da-b7b1-44f6c83ca6b4")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 277.7285 78.74 0)
+			(at 273.6766 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6346,6 +6346,28 @@
 			)
 		)
 	)
+	(global_label "COL0"
+		(shape input)
+		(at 265.43 86.36 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "7d35e196-d5ef-4c25-a6f3-bb0d449f56f5")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 273.2533 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "COL3"
 		(shape input)
 		(at 265.43 50.8 0)
@@ -6368,28 +6390,6 @@
 			)
 		)
 	)
-	(global_label "OLED_SCL"
-		(shape input)
-		(at 265.43 81.28 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "9a12f9dd-0104-4d63-a045-14c6ff0ef2e6")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 277.668 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "ENC2_B"
 		(shape input)
 		(at 265.43 93.98 0)
@@ -6403,6 +6403,28 @@
 		(uuid "9edd1576-e570-4cf4-8efd-279e3a2b0706")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 275.6118 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "OLED_SCL"
+		(shape input)
+		(at 265.43 91.44 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ba12a8b7-ad36-4537-a9de-d26e4824f6d4")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 277.668 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6436,7 +6458,7 @@
 	)
 	(global_label "ROW3"
 		(shape input)
-		(at 265.43 66.04 0)
+		(at 265.43 73.66 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6444,9 +6466,31 @@
 			)
 			(justify left)
 		)
-		(uuid "c3e1180d-fd42-4bb3-b495-872a69e3f7cb")
+		(uuid "cdf3f471-9bd1-4b52-9a47-0c4034fa0a5b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 273.6766 66.04 0)
+			(at 273.6766 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "ROW4"
+		(shape input)
+		(at 265.43 76.2 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d3b8eced-0e8e-451e-9a27-2ae582f732c4")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 273.6766 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6469,28 +6513,6 @@
 		(uuid "dda47be1-11cf-4f60-9d1f-76ee29aadffc")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 275.4304 96.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "ROW6"
-		(shape input)
-		(at 265.43 71.12 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "e84726ac-2873-4e8d-9376-186bcd170f9c")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 273.6766 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
